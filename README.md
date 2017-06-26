@@ -1,13 +1,17 @@
 # carbonoffsets
 How to offset your carbon emmissions.
 
-## Key Ideas
+## Introduction
 
-[Additionality](http://www.co2offsetresearch.org/consumer/Additionality.html) - would carbon emmissions have occurred without the program's involvement?
+[CORE - Are Carbon offsets a scam?](http://www.co2offsetresearch.org/consumer/GoodorBad.html) - Great article addressing key arguments for and against offsetting.
 
 [CORE Guide](http://www.co2offsetresearch.org/index.html) - Nice, thorough and pretty academic-looking introduction to carbon offsetting. 
 
 IATA Guide to Carbon Offsets: http://www.iata.org/whatwedo/environment/Documents/carbon-offset-guidelines-may2008.pdf
+
+## Key Ideas
+
+[Additionality](http://www.co2offsetresearch.org/consumer/Additionality.html) - would carbon emmissions have occurred without the program's involvement?
 
 ## Unsorted Notes
 
