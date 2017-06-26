@@ -27,7 +27,9 @@ http://www.v-c-s.org/project/vcs-program/
 
 https://cdm.unfccc.int/
 
-## How to calculate your carbon usage?
+## How to calculate your carbon emmissions?
+
+http://www.carbonbalanced.org/calculator/flights.asp
 
 http://climatecare.org/calculator/
 
