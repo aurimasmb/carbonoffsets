@@ -54,6 +54,8 @@ _Question: which are the most reputable, most succesful carbon offset providers?
 
 [CORE: What makes a good carbon offset program?](http://www.co2offsetresearch.org/consumer/OffsetQuality.html)
 
+[CORE List of Studies Which Rate Carbon Offset Providers](http://www.co2offsetresearch.org/consumer/OffsetRatings.html)
+
 [QAS List of Carbon Offset Providers](https://qascarbonneutral.com/best-carbon-offsets/)
 
 [Kolvidur](http://kolvidur.is/carbon-calculator/) - Icelandic government initiative to plant birch and spruce forests in Iceland. Very poor English - honestly not sure how / if this program is working anymore and if it accepts payments from individuals any more...
