@@ -9,9 +9,15 @@ How to offset your carbon emmissions.
 
 IATA Guide to Carbon Offsets: http://www.iata.org/whatwedo/environment/Documents/carbon-offset-guidelines-may2008.pdf
 
-## Key Ideas
+## Important Terms
 
 [Additionality](http://www.co2offsetresearch.org/consumer/Additionality.html) - would carbon emmissions have occurred without the program's involvement?
+
+[Radiative Forcing]() - http://www.co2offsetresearch.org/aviation/RFI.html
+
+## On Flying
+
+https://www.theguardian.com/environment/2006/sep/21/travelsenvironmentalimpact.ethicalliving
 
 ## Unsorted Notes
 
@@ -65,3 +71,5 @@ _Question: which are the most reputable, most succesful carbon offset providers?
 [World Land Trust](http://www.worldlandtrust.org/eco-services/carbon-balanced) - Hmm... not much detail on the projects?
 
 https://carbonfund.org/individuals/
+
+http://sustainabletravel.org/
