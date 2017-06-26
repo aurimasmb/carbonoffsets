@@ -34,6 +34,8 @@ http://climatecare.org/calculator/
 https://co2.myclimate.org/en/flight_calculators/new
 
 
-## Where to buy carbon offsets?
+## How to offset carbon?
+
+[Kolvidur](http://kolvidur.is/carbon-calculator/) - Icelandic government initiative to plant birch and spruce forests in Iceland. Very poor English - honestly not sure how / if this program is working anymore and if it accepts payments from individuals any more...
 
 https://carbonfund.org/individuals/
