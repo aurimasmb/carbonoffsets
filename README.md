@@ -1,5 +1,13 @@
 # carbonoffsets
-How to offset your carbon.
+How to offset your carbon emmissions.
+
+## Key Ideas
+
+[Additionality](http://www.co2offsetresearch.org/consumer/Additionality.html) - would carbon emmissions have occurred without the program's involvement?
+
+[CORE Guide](http://www.co2offsetresearch.org/index.html) - Nice, thorough and pretty academic-looking introduction to carbon offsetting. 
+
+IATA Guide to Carbon Offsets: http://www.iata.org/whatwedo/environment/Documents/carbon-offset-guidelines-may2008.pdf
 
 ## Unsorted Notes
 
@@ -39,6 +47,8 @@ https://co2.myclimate.org/en/flight_calculators/new
 ## How to offset carbon?
 
 _Question: which are the most reputable, most succesful carbon offset providers?_
+
+[CORE: What makes a good carbon offset program?](http://www.co2offsetresearch.org/consumer/OffsetQuality.html)
 
 [QAS List of Carbon Offset Providers](https://qascarbonneutral.com/best-carbon-offsets/)
 
