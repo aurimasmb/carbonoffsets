@@ -29,7 +29,7 @@ https://cdm.unfccc.int/
 
 ## How to calculate your carbon emmissions?
 
-http://www.carbonbalanced.org/calculator/flights.asp
+[CarbonBalanced.Org](http://www.carbonbalanced.org/calculator/flights.asp)
 
 http://climatecare.org/calculator/
 
@@ -39,5 +39,7 @@ https://co2.myclimate.org/en/flight_calculators/new
 ## How to offset carbon?
 
 [Kolvidur](http://kolvidur.is/carbon-calculator/) - Icelandic government initiative to plant birch and spruce forests in Iceland. Very poor English - honestly not sure how / if this program is working anymore and if it accepts payments from individuals any more...
+
+[Atmosfair](https://www.atmosfair.de/en/home/) - German program. Looks legit.
 
 https://carbonfund.org/individuals/
