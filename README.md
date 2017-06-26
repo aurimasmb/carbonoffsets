@@ -38,10 +38,14 @@ https://co2.myclimate.org/en/flight_calculators/new
 
 ## How to offset carbon?
 
+_Question: which are the most reputable, most succesful carbon offset providers?_
+
+[QAS List of Carbon Offset Providers](https://qascarbonneutral.com/best-carbon-offsets/)
+
 [Kolvidur](http://kolvidur.is/carbon-calculator/) - Icelandic government initiative to plant birch and spruce forests in Iceland. Very poor English - honestly not sure how / if this program is working anymore and if it accepts payments from individuals any more...
 
 [Atmosfair](https://www.atmosfair.de/en/home/) - German program. Looks legit.
 
-[World Land Trust](http://www.worldlandtrust.org/eco-services/carbon-balanced)
+[World Land Trust](http://www.worldlandtrust.org/eco-services/carbon-balanced) - Hmm... not much detail on the projects?
 
 https://carbonfund.org/individuals/
