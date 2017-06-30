@@ -50,6 +50,10 @@ http://www.v-c-s.org/project/vcs-program/
 
 [VCS Project Database:](http://www.vcsprojectdatabase.org/#/home)
 
+### Voluntary Gold Standard
+
+
+
 ### Clean Development Mechanism
 
 https://cdm.unfccc.int/
@@ -82,3 +86,8 @@ _Question: which are the most reputable, most succesful carbon offset providers?
 https://carbonfund.org/individuals/
 
 http://sustainabletravel.org/
+
+
+Additional Notes
+
+Insetting http://www.icroa.org/resources/Pictures/ICROA%20Insetting%20Report_v300.pdf
