@@ -42,6 +42,8 @@ https://co2.myclimate.org/en/my_project_calculators/new
 
 ## Standards
 
+http://www.co2offsetresearch.org/consumer/Standards.html
+
 ### Verified Carbon Standard 
 
 http://www.v-c-s.org/project/vcs-program/
