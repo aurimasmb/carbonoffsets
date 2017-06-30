@@ -1,6 +1,13 @@
 # carbonoffsets
 How to offset your carbon emmissions.
 
+Key Questions Fulbrighters Will Have:
+
+1. Are carbon offsets even a good idea?
+
+2. If so, which ones should I buy?
+
+
 ## Introduction
 
 [CORE - Are Carbon offsets a scam?](http://www.co2offsetresearch.org/consumer/GoodorBad.html) - Great article addressing key arguments for and against offsetting.
