@@ -12,7 +12,7 @@ Key Questions Fulbrighters Will Have:
 
 [CORE - Are Carbon offsets a scam?](http://www.co2offsetresearch.org/consumer/GoodorBad.html) - Great article addressing key arguments for and against offsetting.
 
-[CORE Guide](http://www.co2offsetresearch.org/index.html) - Nice, thorough and pretty academic-looking introduction to carbon offsetting. 
+[CORE Guide](http://www.co2offsetresearch.org/index.html) - Nice, thorough and pretty academic-looking introduction to carbon offsetting. Seems to have been last updated in 2011 though!
 
 IATA Guide to Carbon Offsets: http://www.iata.org/whatwedo/environment/Documents/carbon-offset-guidelines-may2008.pdf
 
