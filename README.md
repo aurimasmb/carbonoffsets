@@ -92,6 +92,8 @@ http://sustainabletravel.org/
 
 [Atmosfair](https://www.atmosfair.de/en/home/) - German provider. Uses Clean Development Mechanism "Gold Standard?". No annual reports since 2014???
 
+[United Airlines](http://co2offsets.sustainabletravelinternational.org/ua/offsets) - United will calculate your carbon footprint and suggested monetary offset based off routes. Its route selection is a bit limited, but you can find comparable routes to your own to get a rough estimate. It offers two offset projects, a wind farm in Texas and a reforestation project in Peru through a partner, Sustainable Travel International. Both projects are under the [Verified Carbon Standard](http://www.v-c-s.org/project/vcs-program/)
+
 
 
 Additional Notes
