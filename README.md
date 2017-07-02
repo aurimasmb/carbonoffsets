@@ -1,5 +1,5 @@
 # carbonoffsets
-How to offset your carbon emmissions.
+How to offset your carbon emissions.
 
 Key Questions Fulbrighters Will Have:
 
@@ -58,7 +58,7 @@ http://www.v-c-s.org/project/vcs-program/
 
 https://cdm.unfccc.int/
 
-## How to calculate your carbon emmissions?
+## How to calculate your carbon emissions?
 
 [CarbonBalanced.Org](http://www.carbonbalanced.org/calculator/flights.asp)
 
