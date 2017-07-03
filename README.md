@@ -7,7 +7,7 @@ We created this guide to hopefully inspire you to offset the emissions of some o
 
 How to offset your carbon emissions.
 
-Key questions that we as Fulbrighters may have:
+**Key questions that we as Fulbrighters may have:**
 
 1. Are carbon offsets even a good idea?
 
@@ -102,6 +102,6 @@ http://sustainabletravel.org/
 
 
 
-Additional Notes
+## Additional Notes
 
 Insetting http://www.icroa.org/resources/Pictures/ICROA%20Insetting%20Report_v300.pdf
