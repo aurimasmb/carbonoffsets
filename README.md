@@ -12,21 +12,19 @@ Key Questions Fulbrighters Will Have:
 
 ## Introduction
 
+[Carbon Offset Research & Education (CORE)](http://www.co2offsetresearch.org/index.html) offers thorough information about carbon offsetting (but note that it was last updated in 2011!).
+
 [CORE - Are Carbon offsets a scam?](http://www.co2offsetresearch.org/consumer/GoodorBad.html) - Great article addressing key arguments for and against offsetting.
 
-[CORE Guide](http://www.co2offsetresearch.org/index.html) - Nice, thorough and pretty academic-looking introduction to carbon offsetting. Seems to have been last updated in 2011 though!
+[IATA](http://www.iata.org/whatwedo/environment/Documents/carbon-offset-guidelines-may2008.pdf) offers another guide all about carbon offsetting, specifically from an aviation angle.
 
-IATA Guide to Carbon Offsets: http://www.iata.org/whatwedo/environment/Documents/carbon-offset-guidelines-may2008.pdf
+["On the flight path to global meltdown" in The Guardian](http://www.theguardian.com/environment/2006/sep/21/travelsenvironmentalimpact.ethicalliving) - This article by George Monbiot offers a more extreme argument: that we must halt our air travel pretty much altogether.
 
 ## Important Terms
 
-[Additionality](http://www.co2offsetresearch.org/consumer/Additionality.html) - would carbon emmissions have occurred without the program's involvement?
+[Additionality](http://www.co2offsetresearch.org/consumer/Additionality.html) - would carbon emissions have occurred without the program's involvement?
 
-[Radiative Forcing]() - http://www.co2offsetresearch.org/aviation/RFI.html
-
-## On Flying
-
-https://www.theguardian.com/environment/2006/sep/21/travelsenvironmentalimpact.ethicalliving
+[Radiative Forcing](http://www.co2offsetresearch.org/aviation/RFI.html) - a measure used to understand how non-CO2 greenhouse gases affect climate change.
 
 ## Unsorted Notes
 
