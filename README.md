@@ -105,3 +105,6 @@ http://sustainabletravel.org/
 ## Additional Notes
 
 Insetting http://www.icroa.org/resources/Pictures/ICROA%20Insetting%20Report_v300.pdf
+
+
+[CORSIA](https://www.icao.int/environmental-protection/Pages/Online-CORSIA-Tutorial.aspx)
