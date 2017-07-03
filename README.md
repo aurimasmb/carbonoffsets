@@ -18,6 +18,7 @@ How to offset your carbon emissions.
 
 Most of what we do emits greenhouse gas emissions (A.K.A. carbon emissions) in some form: carbon dioxide, methane, or even water vapor. A carbon offset is a way to diminish carbon emissions elsewhere even as we increase them through our activities. As Fulbrighters, one of our biggest sources of emissions is flying. To offset these emissions, we calculate our emissions (see "Calculating carbon emissions"), then pay a corresponding amount to a carbon offset provider (see "Carbon Offset Providers"). Most of these providers either create a carbon sink by planting trees or diminish future emissions by developing renewable energy. The latter projects often bring about social benefits by providing clean development and jobs in the host community. Just below are some sources describing carbon offsets (and some potential controversies around them).
 
+
 [Carbon Offset Research & Education (CORE)](http://www.co2offsetresearch.org/index.html) offers thorough information about carbon offsetting (but note that it was last updated in 2011!).
 
 [CORE - Are Carbon offsets a scam?](http://www.co2offsetresearch.org/consumer/GoodorBad.html) - Great article addressing key arguments for and against offsetting.
@@ -25,6 +26,18 @@ Most of what we do emits greenhouse gas emissions (A.K.A. carbon emissions) in s
 [IATA](http://www.iata.org/whatwedo/environment/Documents/carbon-offset-guidelines-may2008.pdf) offers another guide all about carbon offsetting, specifically from an aviation angle.
 
 ["On the flight path to global meltdown" in The Guardian](http://www.theguardian.com/environment/2006/sep/21/travelsenvironmentalimpact.ethicalliving) - This article by George Monbiot offers a more extreme argument: that we must halt our air travel pretty much altogether.
+
+
+### Effects of Aviation Emissions
+
+asdfasdfasdf
+
+### Policy
+
+The EU has included commercial aviation as part of its [Emissions Trading System](https://ec.europa.eu/clima/policies/ets_en), a Cap-and-Trade system, [since 2008 (or 2012??)](https://ec.europa.eu/clima/policies/ets_en). Recently, the rules were changed so that the ETS cap and trade system only applied to flights within the EEA. This is to allow for a global aviation emissions limitation program called [CORSIA (Carbon Offsetting and Reduction Scheme for International Aviation)](https://www.icao.int/environmental-protection/Pages/market-based-measures.aspx). CORSIA is an offsets program which requires airlines in countries in participating countries to purchase carbon offsets for any emissions increases after 2020. Participation by countries is on a voluntary basis.
+
+_**Auri's opinion:** This legislation seems super weak. **Offsetting** the **growth** of emissions after **2020**?? That's a pretty 
+
 
 ## Important Terms
 
