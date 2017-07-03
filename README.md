@@ -38,7 +38,7 @@ The EU has included commercial aviation as part of its [Emissions Trading System
 
 [WWF's criticism of CORSIA, and argument to stop new runway construction at Heathrow.](https://www.wwf.org.uk/sites/default/files/2017-05/WWF_Grounded_report_FINAL_1.pdf)
 
-_**Auri's opinion:** This legislation seems super weak. **Offsetting** the **growth** of emissions after **2020**?? That's a pretty lame goal. Does this mean that we as citizens should try to do more to offset our personal impact, because clearly the legislation is not going to do much, and certainly won't do much for a while? _
+_**Auri's opinion:** This legislation seems super weak. **Offsetting** the **growth** of emissions after **2020**?? That's a pretty lame goal. Does this mean that we as citizens should try to do more to offset our personal impact, because clearly the legislation is not going to do much, and certainly won't do much for a while?_
 
 
 ## Important Terms
