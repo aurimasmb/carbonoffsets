@@ -110,3 +110,5 @@ Insetting http://www.icroa.org/resources/Pictures/ICROA%20Insetting%20Report_v30
 [CORSIA](https://www.icao.int/environmental-protection/Pages/Online-CORSIA-Tutorial.aspx)
 
 [EU Emissions Trading System (ETS)](https://ec.europa.eu/clima/policies/ets_en)
+
+[ETS on Aviation](https://ec.europa.eu/clima/policies/transport/aviation_en)
