@@ -1,3 +1,5 @@
+We created this guide to hopefully inspire you to offset the emissions of some of the traveling you've done during your Fulbright year. It contains information on carbon offsetting, some background on standards, some articles about the debate surrounding offsetting, and some offset providers that we recommend. It is by no means comprehensive, so we recommend you do your own research if you're intersted! And remember, the best thing we can do is reduce our own emissions (minimise flying and driving, eat more local food, and so on). But acknowledging that minimising our emissions to zero is not yet possible or preferable, carbon offsetting can help create some good to counteract the bad :)
+
 # carbonoffsets
 How to offset your carbon emissions.
 
@@ -28,7 +30,7 @@ https://www.theguardian.com/environment/2006/sep/21/travelsenvironmentalimpact.e
 
 ## Unsorted Notes
 
-https://www.theguardian.com/environment/2011/sep/16/carbon-offset-projects-carbon-emissions
+["A complete guide to carbon offsetting" from The Guardian](http://www.theguardian.com/environment/2011/sep/16/carbon-offset-projects-carbon-emissions) 
 
 http://www.carbonfootprint.com/offsetshop.html
 
@@ -43,6 +45,8 @@ https://co2.myclimate.org/en/my_project_calculators/new
 ## Standards
 
 http://www.co2offsetresearch.org/consumer/Standards.html
+
+[A WWF report comparing offsetting standards](http://www.globalcarbonproject.org/global/pdf/WWF_2008_A%20comparison%20of%20C%20offset%20Standards.pdf) - this report is far longer than any of us will read, but the 12th page of the pdf compares the standards along some important metrics. 
 
 ### Verified Carbon Standard 
 
@@ -92,7 +96,7 @@ http://sustainabletravel.org/
 
 [Atmosfair](https://www.atmosfair.de/en/home/) - German provider. Uses Clean Development Mechanism "Gold Standard?". No annual reports since 2014???
 
-[United Airlines](http://co2offsets.sustainabletravelinternational.org/ua/offsets) - United will calculate your carbon footprint and suggested monetary offset based off routes. Its route selection is a bit limited, but you can find comparable routes to your own to get a rough estimate. It offers two offset projects, a wind farm in Texas and a reforestation project in Peru through a partner, Sustainable Travel International. Both projects are under the [Verified Carbon Standard](http://www.v-c-s.org/project/vcs-program/)
+[United Airlines](http://co2offsets.sustainabletravelinternational.org/ua/offsets) - United will calculate your carbon footprint and suggested monetary offset based off routes. Its route selection is a bit limited, but you can find comparable routes to your own to get a rough estimate. It offers two offset projects, a wind farm in Texas and a reforestation project in Peru through a partner, Sustainable Travel International. Both projects are under the [Verified Carbon Standard](http://www.v-c-s.org/project/vcs-program/).
 
 
 
