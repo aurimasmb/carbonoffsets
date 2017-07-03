@@ -1,18 +1,22 @@
+# carbonoffsets
+
 We created this guide to hopefully inspire you to offset the emissions of some of the traveling you've done during your Fulbright year. It contains information on carbon offsetting, some background on standards, some articles about the debate surrounding offsetting, and some offset providers that we recommend. It is by no means comprehensive, so we recommend you do your own research if you're intersted! And remember, the best thing we can do is reduce our own emissions (minimise flying and driving, eat more local food, and so on). But acknowledging that minimising our emissions to zero is not yet possible or preferable, carbon offsetting can help create some good to counteract the bad :)
 
 -Auri, Michael, and Natalie
 
-# carbonoffsets
+
 How to offset your carbon emissions.
 
-Key Questions Fulbrighters Will Have:
+Key questions that we as Fulbrighters may have:
 
 1. Are carbon offsets even a good idea?
 
-2. If so, which ones should I buy?
+2. If so, which ones should we buy?
 
 
 ## Introduction
+
+Most of what we do emits greenhouse gas emissions (A.K.A. carbon emissions) in some form: carbon dioxide, methane, or even water vapor. A carbon offset is a way to diminish carbon emissions elsewhere even as we increase them through our activities. As Fulbrighters, one of our biggest sources of emissions is flying. To offset these emissions, we calculate our emissions (see "Calculating carbon emissions"), then pay a corresponding amount to a carbon offset provider (see "Carbon Offset Providers"). Most of these providers either create a carbon sink by planting trees or diminish future emissions by developing renewable energy. The latter projects often bring about social benefits by providing clean development and jobs in the host community. Just below are some sources describing carbon offsets (and some potential controversies around them).
 
 [Carbon Offset Research & Education (CORE)](http://www.co2offsetresearch.org/index.html) offers thorough information about carbon offsetting (but note that it was last updated in 2011!).
 
@@ -26,15 +30,13 @@ Key Questions Fulbrighters Will Have:
 
 [Additionality](http://www.co2offsetresearch.org/consumer/Additionality.html) - would carbon emissions have occurred without the program's involvement?
 
-[Radiative Forcing](http://www.co2offsetresearch.org/aviation/RFI.html) - a measure used to understand how non-CO2 greenhouse gases affect climate change.
+[Radiative Forcing](http://www.co2offsetresearch.org/aviation/RF.html), a measure used to understand how non-CO2 greenhouse gases affect climate change and how they are integrated into our emissions calculation, and [Radiative Forcing Index](http://www.co2offsetresearch.org/aviation/RFI.html).
 
-## Unsorted Notes
+## For other guides to offsetting emissions:
 
-["A complete guide to carbon offsetting" from The Guardian](http://www.theguardian.com/environment/2011/sep/16/carbon-offset-projects-carbon-emissions) 
+["A complete guide to carbon offsetting" from The Guardian](http://www.theguardian.com/environment/2011/sep/16/carbon-offset-projects-carbon-emissions) or ["How can I offset my flight emissions?" from The Guardian](http://www.theguardian.com/travel/2015/apr/19/how-to-offset-flight-emissions) 
 
-http://www.carbonfootprint.com/offsetshop.html
-
-https://www.theguardian.com/travel/2015/apr/19/how-to-offset-flight-emissions
+[Step by step from "Carbon Footprint"](http://www.carbonfootprint.com/offsetshop.html) 
 
 http://climatecare.org/carbon-offsetting/
 
@@ -62,7 +64,7 @@ http://www.v-c-s.org/project/vcs-program/
 
 https://cdm.unfccc.int/
 
-## How to calculate your carbon emissions?
+## Calculating carbon emissions
 
 [CarbonBalanced.Org](http://www.carbonbalanced.org/calculator/flights.asp)
 
