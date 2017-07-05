@@ -5,8 +5,6 @@ We created this guide to hopefully inspire you to offset the emissions of some o
 -Auri, Michael, and Natalie
 
 
-How to offset your carbon emissions.
-
 **Key questions that we as Fulbrighters may have:**
 
 1. Are carbon offsets even a good idea?
@@ -45,29 +43,17 @@ _**Auri's opinion:** This legislation seems super weak. **Offsetting** the **gro
 
 ## Important Terms
 
-[Additionality](http://www.co2offsetresearch.org/consumer/Additionality.html) - would carbon emissions have occurred without the program's involvement?
+[Additionality](http://www.co2offsetresearch.org/consumer/Additionality.html) - would carbon emissions have occurred without the program's involvement? This question is important, because if the answer is no then we are not really offsetting our emissions at all by contributing to a program.
 
 [Radiative Forcing](http://www.co2offsetresearch.org/aviation/RF.html), a measure used to understand how non-CO2 greenhouse gases affect climate change and how they are integrated into our emissions calculation, and [Radiative Forcing Index](http://www.co2offsetresearch.org/aviation/RFI.html).
 
-## For other guides to offsetting emissions:
-
-["A complete guide to carbon offsetting" from The Guardian](http://www.theguardian.com/environment/2011/sep/16/carbon-offset-projects-carbon-emissions) or ["How can I offset my flight emissions?" from The Guardian](http://www.theguardian.com/travel/2015/apr/19/how-to-offset-flight-emissions) 
-
-[Step by step from "Carbon Footprint"](http://www.carbonfootprint.com/offsetshop.html) 
-
-http://climatecare.org/carbon-offsetting/
-
-some example offset projects:
-
-https://co2.myclimate.org/en/my_project_calculators/new
-
 ## Standards
 
-http://www.co2offsetresearch.org/consumer/Standards.html
+Many third party standards exist to certify that carbon offset options are legitimate. These [standards](http://www.co2offsetresearch.org/consumer/Standards.html) have different managing agencies and differing requirements, but most seem quite good. 
 
 [A WWF report comparing offsetting standards](http://www.globalcarbonproject.org/global/pdf/WWF_2008_A%20comparison%20of%20C%20offset%20Standards.pdf) - this report is far longer than any of us will read, but the 12th page of the pdf compares the standards along some important metrics. 
 
-### Verified Carbon Standard 
+### Verified Carbon Standard - Do we need these links here? The "standards" link above can connect them to any of these websites.
 
 http://www.v-c-s.org/project/vcs-program/
 
@@ -83,16 +69,20 @@ https://cdm.unfccc.int/
 
 ## Calculating carbon emissions
 
+Many websites exist to help you calculate your carbon footprint, which you can then partially or fully offset.
+
 [CarbonBalanced.Org](http://www.carbonbalanced.org/calculator/flights.asp)
 
-http://climatecare.org/calculator/
+[climatecare.org](http://www.http://climatecare.org/calculator/)
 
-https://co2.myclimate.org/en/flight_calculators/new
+[myclimate](http://www.http://co2.myclimate.org/en/flight_calculators/new), which calculates emissions from a given flight trajectory.
 
 
 ## How to offset carbon?
 
-_Question: which are the most reputable, most succesful carbon offset providers?_
+Once you know you want to offset some of your emissions, many providers exist for you to donate to carbon offset projects.
+
+The following links list some and rate them along various metrics.
 
 [CORE: What makes a good carbon offset program?](http://www.co2offsetresearch.org/consumer/OffsetQuality.html)
 
@@ -100,23 +90,31 @@ _Question: which are the most reputable, most succesful carbon offset providers?
 
 [QAS List of Carbon Offset Providers](https://qascarbonneutral.com/best-carbon-offsets/)
 
+### Some carbon offset providers we know of:
+
 [Kolvidur](http://kolvidur.is/carbon-calculator/) - Icelandic government initiative to plant birch and spruce forests in Iceland. Very poor English - honestly not sure how / if this program is working anymore and if it accepts payments from individuals any more...
 
+[World Land Trust](http://www.worldlandtrust.org/eco-services/carbon-balanced) - This source from the UK offers projects, but does not give much detail on them or clearly quantify the offsets from each.
 
+[carbonfund](http://carbonfund.org/individuals) - source from the US
 
-[World Land Trust](http://www.worldlandtrust.org/eco-services/carbon-balanced) - Hmm... not much detail on the projects?
-
-https://carbonfund.org/individuals/
-
-http://sustainabletravel.org/
-
-
-## Carbon Offset Providers
+[Sustainable Travel International](http://sustainabletravel.org)
 
 [Atmosfair](https://www.atmosfair.de/en/home/) - German provider. Uses Clean Development Mechanism "Gold Standard?". No annual reports since 2014???
 
 [United Airlines](http://co2offsets.sustainabletravelinternational.org/ua/offsets) - United will calculate your carbon footprint and suggested monetary offset based off routes. Its route selection is a bit limited, but you can find comparable routes to your own to get a rough estimate. It offers two offset projects, a wind farm in Texas and a reforestation project in Peru through a partner, Sustainable Travel International. Both projects are under the [Verified Carbon Standard](http://www.v-c-s.org/project/vcs-program/).
 
+## For other guides to offsetting emissions:
+
+["A complete guide to carbon offsetting"](http://www.theguardian.com/environment/2011/sep/16/carbon-offset-projects-carbon-emissions) or ["How can I offset my flight emissions?"](http://www.theguardian.com/travel/2015/apr/19/how-to-offset-flight-emissions), both from The Guardian.
+
+[Step by step from "Carbon Footprint"](http://www.carbonfootprint.com/offsetshop.html) 
+
+[A guide from climatecare](http://www.climatecare.org/carbon-offsetting/) 
+
+some example offset projects:
+
+https://co2.myclimate.org/en/my_project_calculators/new -- These are super expensive and don't actually quantify their carbon impact...
 
 
 ## Additional Notes
