@@ -110,7 +110,7 @@ The following links list some and rate them along various metrics.
 
 [carbonfund](http://carbonfund.org/individuals) - source from the US
 
-[Sustainable Travel International](http://sustainabletravel.org)
+[Sustainable Travel International](http://sustainabletravel.org/utilities/carbon-calculator/) 
 
 [Atmosfair](https://www.atmosfair.de/en/home/) - German provider. Uses Clean Development Mechanism "Gold Standard?". No annual reports since 2014???
 
