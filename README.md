@@ -144,6 +144,8 @@ Insetting http://www.icroa.org/resources/Pictures/ICROA%20Insetting%20Report_v30
 
 [On potential issues with double counting in the CORSIA system - Verified Carbon Standard article](http://www.v-c-s.org/double-counting-in-icaos-corsia-issues-and-solutions/)
 
+[On Forest Bonds](http://www.reuters.com/article/bhp-environment-forest-bond-idUSL8N1D86VG)
+
 ### Some notes on Carbon Markets
 
 There is a very interesting document which discusses the state of the voluntary carbon offset market here:
