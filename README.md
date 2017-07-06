@@ -67,6 +67,10 @@ http://www.v-c-s.org/project/vcs-program/
 
 [List of VCS program documents](http://database.v-c-s.org/program-documents)
 
+**Verified Carbon Units (VCU's)** These represent units of offset carbon. These are monitored in two central registries. 
+
+Something about individual investors not buying carbon credits? http://www.icroa.org/resources/Pictures/IETA-ICROA-CMIA%20-%20statement%20re%20investment%20in%20carbon%20credits%20-%20140531.pdf - What if I am buying them just as a permanent offset??? Don't quite fully understand this market...
+
 ### Voluntary Gold Standard
 
 
