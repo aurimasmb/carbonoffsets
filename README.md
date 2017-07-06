@@ -131,3 +131,5 @@ Insetting http://www.icroa.org/resources/Pictures/ICROA%20Insetting%20Report_v30
 [EU Emissions Trading System (ETS)](https://ec.europa.eu/clima/policies/ets_en)
 
 [ETS on Aviation](https://ec.europa.eu/clima/policies/transport/aviation_en)
+
+[On using blockchain for a global carbon accounting system](https://blockchainfutureslab.wordpress.com/2016/06/09/the-blockchain-climate-fix/)
