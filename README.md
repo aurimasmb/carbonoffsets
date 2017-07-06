@@ -143,3 +143,43 @@ Insetting http://www.icroa.org/resources/Pictures/ICROA%20Insetting%20Report_v30
 [On using blockchain for a global carbon accounting system](https://blockchainfutureslab.wordpress.com/2016/06/09/the-blockchain-climate-fix/)
 
 [On potential issues with double counting in the CORSIA system - Verified Carbon Standard article](http://www.v-c-s.org/double-counting-in-icaos-corsia-issues-and-solutions/)
+
+### Some notes on Carbon Markets
+
+There is a very interesting document which discusses the state of the voluntary carbon offset market here:
+
+http://forest-trends.org/releases/uploads/SOVCM2015_FullReport.pdf
+
+Here is a followup document which is even more interesting:
+
+http://forest-trends.org/releases/uploads/SOVCM%20Webinar%20Q&A%20Document%20June%2025%202015.pdf
+
+Basically, as far as I understand:
+
+The Verified Carbon Standard allows projects to register Verified Carbon Units, which each represent one ton of emissions reductions that has been validated and verified according to VCS rules. These units can then be purchased by individuals, corporations or governments which want to offset their emissions. Interestingly, these units can also be sold on to other entities. This is a voluntary market, so the demand for VCU's is purely based on entities wanting to buy the right to say that they have offset their emissions.
+
+Question: 
+
+1. **Are VCU's linked at all times to the project from which they were purchased?**
+
+Answer:
+
+From [above document](http://forest-trends.org/releases/uploads/SOVCM%20Webinar%20Q&A%20Document%20June%2025%202015.pdf):  
+
+>Each project type, and even projects within the same sector, can command very different
+prices, and it is up to the developer to do their due diligence before diving in and then
+make the case that their particular project delivers compelling benefits, which can
+translate into good pricing. We do see new projects entering the system all the time, and
+that must be because these developers know there are compelling stories behind them
+that can command decent prices.
+
+Ok, so each project is selling VCU's at some individual price based on its costs to deliver that project, and the degree of risk associated with that offset remaining permanent.
+
+2. If a project ultimately fails, or some carbon is re-emitted in the course of that project, say, for example, through a forest fire, does that then mean that those VCU's are destroyed? Would the end buyer of those VCU's then be notified and decide to buy more to offset their carbon?
+
+
+3. As an individual seeking to offset my carbon in a rigorous way, is there a browseable database of VCS projects from which I can buy VCU's from?
+
+
+So for example, you could build a nice website which gives users access to  
+
