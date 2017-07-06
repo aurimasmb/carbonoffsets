@@ -63,6 +63,8 @@ http://www.v-c-s.org/project/vcs-program/
 
 [VCS Project Database:](http://www.vcsprojectdatabase.org/#/home)
 
+[List of VCS program documents](http://database.v-c-s.org/program-documents)
+
 ### Voluntary Gold Standard
 
 
