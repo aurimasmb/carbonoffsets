@@ -137,3 +137,5 @@ Insetting http://www.icroa.org/resources/Pictures/ICROA%20Insetting%20Report_v30
 [ETS on Aviation](https://ec.europa.eu/clima/policies/transport/aviation_en)
 
 [On using blockchain for a global carbon accounting system](https://blockchainfutureslab.wordpress.com/2016/06/09/the-blockchain-climate-fix/)
+
+[On potential issues with double counting in the CORSIA system - Verified Carbon Standard article](http://www.v-c-s.org/double-counting-in-icaos-corsia-issues-and-solutions/)
