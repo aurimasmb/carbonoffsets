@@ -55,6 +55,10 @@ Many third party standards exist to certify that carbon offset options are legit
 
 ### Verified Carbon Standard - Do we need these links here? The "standards" link above can connect them to any of these websites.
 
+Maybe some specific info about the verified carbon standard here.
+
+South Africa is considering draft legislation on Carbon Taxation / Offsetting that would recognise Verified Carbon Standard projects as a legal way to offset carbon. Does this mean it is sufficiently legit?
+
 http://www.v-c-s.org/project/vcs-program/
 
 [VCS Project Database:](http://www.vcsprojectdatabase.org/#/home)
