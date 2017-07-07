@@ -7,7 +7,7 @@ Comparison of carbon offset retailers:
 
 | Retailer | Price / Tonne | Standards  |   |   |
 |---|---|---|---|---|
-| BP Target Neutral | £2.84  | VCS / Gold / CAR?  |   |   |
+| BP Target Neutral | £2.83  | VCS / Gold / CAR?  |   |   |
 | United Airlines  |   |   |   |   |
 | Climate Care  |   |   |   |   |
 
