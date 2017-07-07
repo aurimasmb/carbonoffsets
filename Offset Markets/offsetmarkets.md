@@ -19,12 +19,14 @@ VCU's (Verified Carbon Units) represent 1 tonne of emissions. VCU's are created 
 
 _Note: It is not recommended to buy VCU's with the intent to resell if you are individual investor. See [1](http://www.redd-monitor.org/2013/05/20/why-doesnt-vcs-warn-against-buying-carbon-credits-as-an-investment/)_ 
 
+_Our best bet might be to approach one of these environmental consultancies to see if they would be willing to work with Fulbright / DCarb._
+
 ### Retailers:
 
 * Trees For Life is selling VCU's registered on Markit for AUD 12 / tonne. - https://www.treesforlife.org.au/shop/item/1-verified-carbon-units
 * First Carbon Credits Corporation sells credits under FCCC? which apparently follows VCS, Gold Standard, or CDM. claim to provide registration numbers but still a bit sketch. Also selling at CAD 15 ~=  USD 11.50, which is a tad high. http://shop.firstcarboncredits.com/category-s/1822.htm
 * CarbonNeutral.au is selling VCU's in bulk to businesses. Could we contact them to see if they would sell to us as individuals? https://carbonneutral.com.au/verified-carbon-units/
-* ICROA List of Carbon Retailer Members - http://icroa.org/Our-Members
+* ICROA List of Carbon Retailer Members - http://icroa.org/Our-Members - These are all environmental consultancies.
   * http://www.carbonsink.it/en/what-we-do/
   * https://carbon-clear.com/what-we-do/carbon-offsetting/carbon-offsets-our-projects/
   * http://www.co2balance.com/working-with-co2balance/offsetting.php
