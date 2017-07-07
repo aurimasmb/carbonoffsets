@@ -24,3 +24,7 @@ _Note: It is not recommended to buy VCU's with the intent to resell if you are i
 * Trees For Life is selling VCU's registered on Markit for AUD 12 / tonne. - https://www.treesforlife.org.au/shop/item/1-verified-carbon-units
 * First Carbon Credits Corporation sells credits under FCCC? which apparently follows VCS, Gold Standard, or CDM. claim to provide registration numbers but still a bit sketch. Also selling at CAD 15 ~=  USD 11.50, which is a tad high. http://shop.firstcarboncredits.com/category-s/1822.htm
 * CarbonNeutral.au is selling VCU's in bulk to businesses. Could we contact them to see if they would sell to us as individuals? https://carbonneutral.com.au/verified-carbon-units/
+* ICROA List of Carbon Retailer Members - http://icroa.org/Our-Members
+  * http://www.carbonsink.it/en/what-we-do/
+  * https://carbon-clear.com/what-we-do/carbon-offsetting/carbon-offsets-our-projects/
+  * http://www.co2balance.com/working-with-co2balance/offsetting.php
