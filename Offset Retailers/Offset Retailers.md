@@ -13,6 +13,8 @@ Comparison of carbon offset retailers:
 
 _Calculated using this [Spreadsheet.](https://docs.google.com/spreadsheets/d/1ectCQTRMKzMlgV0yDgbKjDXENRO9p-RCFiUpMnurfx8/pubhtml)_
 
+_Reference prices are taken from [State of the Voluntary Carbon Markets Report 2017.](http://www.forest-trends.org/documents/files/doc_5591.pdf#)_
+
 ## BP Target Neutral
 
 notes
