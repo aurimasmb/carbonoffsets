@@ -11,5 +11,11 @@ buyers back projects based on their unique characteristics such as project locat
 turn affects price.
 
 
+## Verified Carbon Standard Verified Carbon Units Market
 
+Note: It is not recommended to buy VCU's with the intent to resell if you are individual investor. See [1](http://www.redd-monitor.org/2013/05/20/why-doesnt-vcs-warn-against-buying-carbon-credits-as-an-investment/) 
 
+### Retailers:
+
+* Trees For Life is selling VCU's registered on Markit for AUD 12 / tonne. - https://www.treesforlife.org.au/shop/item/1-verified-carbon-units
+* 
