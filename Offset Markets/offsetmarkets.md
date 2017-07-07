@@ -4,4 +4,6 @@ From the [State of Voluntary Offsets Market Report 2015](http://forest-trends.or
 
 >The voluntary offset market behaves more like a retail product market than a traditional commodity marketplace:
 buyers back projects based on their unique characteristics such as project location, type, and standard – which in
-turn affects price 
+turn affects price.
+
+
