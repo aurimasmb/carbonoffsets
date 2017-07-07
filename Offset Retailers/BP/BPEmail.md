@@ -9,7 +9,7 @@
   * Is there a way to choose specifically which projects are funds are used for?
   
   
->>>
+~~~~~~
 
 Dear BP Target Neutral,
 
@@ -21,11 +21,10 @@ We are interested in purchasing offsets through BP Target Neutral, however we ha
 2. Is it possible to verify in some way, for example, by viewing the APX or Markit registries, that these VCU's / VER's have in fact been retired?
 3. Is it possible to know which specific projects our funds are being directed to?
 4. Is it possible to choose which projects our funds will be directed to?
-5. The price of these offsets (£2.84 / ton) seems relatively low. 
 
-We look forward to your reply, and hope to be in tou
+We look forward to your reply, and hope to be in touch again soon.
 
-Thank you very much,  
+Thank you, 
 Aurimas Bukauskas & Michael Donatti  
 Fulbright Postgraduate Scholars, 2017  
   
