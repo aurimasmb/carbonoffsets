@@ -13,6 +13,8 @@ turn affects price.
 
 ## Verified Carbon Standard Verified Carbon Units Market
 
+VCS verifies the quality of carbon offset projects. These can be found in the [VCS Project Database.](http://www.vcsprojectdatabase.org/)
+
 VCU's (Verified Carbon Units) represent 1 tonne of emissions. VCU's are created when a VCS-verified project registers them (and one of VCS's 3rd party Validating / Verifying Bodies (VVB's) validates and verifies them. They are then tracked on the APX and Markit registries, where they are sold, and eventually retired.
 
 _Note: It is not recommended to buy VCU's with the intent to resell if you are individual investor. See [1](http://www.redd-monitor.org/2013/05/20/why-doesnt-vcs-warn-against-buying-carbon-credits-as-an-investment/)_ 
