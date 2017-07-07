@@ -2,18 +2,7 @@
 
 Comparison of carbon offset retailers:
 
-## BP Target Neutral
 
-Price: 
-
-
-## United Airlines 
-
-Price: 
-
-## Climate Care 
-
-Price: 
 
 
 | Retailer | Price / Tonne |   |   |   |
@@ -21,3 +10,12 @@ Price:
 | BP Target Neutral | £2.84  |   |   |   |
 | United Airlines  |   |   |   |   |
 | Climate Care  |   |   |   |   |
+
+
+## BP Target Neutral
+
+notes
+
+## United Airlines 
+
+## Climate Care 
