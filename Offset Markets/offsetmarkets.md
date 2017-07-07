@@ -31,3 +31,6 @@ _Note: It is not recommended to buy VCU's with the intent to resell if you are i
   * https://www.firstclimate.com/carbon-neutral-solutions/carbon-neutrality-for-companies/
   * https://www.naturalcapitalpartners.com/
   * https://www.climateneutralgroup.com/en/service/offsetting/
+  * http://www.thesouthpolegroup.com/sustainability-solutions/carbon-offsets
+  * http://www.vnvadvisory.com/carbon-neutrality/#toggle-id-4
+  * http://nexusfordevelopment.org/partnership-and-corporate-services/
