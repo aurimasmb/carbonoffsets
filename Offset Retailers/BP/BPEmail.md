@@ -25,7 +25,7 @@ We are interested in purchasing offsets through BP Target Neutral, however we ha
 
 We look forward to your reply, and hope to be in tou
 
-Thank you very much,
-Aurimas Bukauskas & Michael Donatti
-Fulbright Postgraduate Scholars, 2017
+Thank you very much,  
+Aurimas Bukauskas & Michael Donatti  
+Fulbright Postgraduate Scholars, 2017  
   
