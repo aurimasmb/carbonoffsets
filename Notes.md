@@ -2,6 +2,12 @@
 
 _This is where we can store notes from ongoing research. See the Wiki for a pared down version of what we have learned._
 
+### Todo List (18 July 2017)
+
+1. Email United again to check about their prices and retirement scheme.
+2. Prepare simple Wiki for Fulbrighters interested in learning more about offsetting.
+3. Draft Email to Fulbrighters, directing them to BP Target Neutral?
+
 _**CURRENTLY WORKING ON:** Finding a list of reputable Carbon Credit Retailers. It seems our best bet may be to potentially approach one of of these climate consultancies and to see if they would be willing to work with the Fulbright / DCarb group. See: https://github.com/aurimasmb/carbonoffsets/blob/master/Offset%20Markets/offsetmarkets.md_
 
 
