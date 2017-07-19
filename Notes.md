@@ -6,14 +6,20 @@ Link Paste :
 
 Double Counting Link: http://database.v-c-s.org/sites/v-c-s.org/files/VCS%20Policy%20Brief,%20Double%20Counting.pdf
 
-### Todo List (18 July 2017)
+### Todo List (19 July 2017) - a few more hours work.
 
-1. Email United again to check about their prices and retirement scheme.
-2. Prepare simple Wiki for Fulbrighters interested in learning more about offsetting.
+1. ~~Email United again to check about their prices and retirement scheme.~~
+2. Prepare simple Wiki for Fulbrighters interested in learning more about offsetting:
+  * Finish Standards Page -- Auri
+  * Evaluate more retailers:
+    * ClimateNeutralNow (CDM) -- Auri
+    * CarbonFootprint.com (VCS, Gold Standard, CDM?) -- Michael
+    * Any others?
+  * Finish Home Page FAQ's -- Both
+  * Finish Policy page: 
+    * Brief summary of ETS / CORSIA. -- Auri
+  * Organise more detailed / in-depth Notes page. -- Michael
 3. Draft Email to Fulbrighters, directing them to BP Target Neutral?
-
-_**CURRENTLY WORKING ON:** Finding a list of reputable Carbon Credit Retailers. It seems our best bet may be to potentially approach one of of these climate consultancies and to see if they would be willing to work with the Fulbright / DCarb group. See: https://github.com/aurimasmb/carbonoffsets/blob/master/Offset%20Markets/offsetmarkets.md_
-
 
 **Key questions that we as Fulbrighters may have:**
 
