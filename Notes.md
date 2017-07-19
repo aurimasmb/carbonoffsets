@@ -2,6 +2,10 @@
 
 _This is where we can store notes from ongoing research. See the Wiki for a pared down version of what we have learned._
 
+Link Paste :
+
+Double Counting Link: http://database.v-c-s.org/sites/v-c-s.org/files/VCS%20Policy%20Brief,%20Double%20Counting.pdf
+
 ### Todo List (18 July 2017)
 
 1. Email United again to check about their prices and retirement scheme.
