@@ -9,13 +9,15 @@ Major question:
 Kolvidur was a 90-year return period.
 
 
+"Crediting Period" - The period of time during which emissions reductions can be proved to have existed.
+
 
 Sequestering vs. Avoiding
 
 
 ## Sequestering:
 
-Payback period? Parity point? 
+Ok. Interesting point about sequestration projects. In an avoidance project, you can never lose the emissions reductions associated with the reduced rate of emissions that existed during the crediting period of the credits. With a sequestration project however, someone could still burn the carbon offsets which you paid for. There must be additional safeguards, essentially for eternity, that ensure that this carbon is never burned. 
 
 ### Forestry
 
