@@ -30,3 +30,7 @@ OK, so looks like VCS is only issuing offsets for actual carbon that has been se
 
 ## Avoiding:
 
+Here is an example project which uses lightweight pallets to reduce emissions during transport:
+
+http://database.v-c-s.org/sites/vcs.benfredaconsulting.com/files/VM0020%2C%20v1.0%20Transportation%20Energy%20Efficiency%20from%20Lightweight%20Pallets.pdf
+
