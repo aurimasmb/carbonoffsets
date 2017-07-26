@@ -19,6 +19,14 @@ Projects are **Validated** ??
 
 Credits are **Verified** after the offset have occurred.
 
+## Forward-Selling / Forward-Purchasing
+
+Excellent overview of emissions credits purchasing options:
+
+http://www.co2offsetresearch.org/consumer/contracts.html
+
+Question: how do we know if we are purchasing offsets which have occurred?
+
 
 ## Sequestering:
 
