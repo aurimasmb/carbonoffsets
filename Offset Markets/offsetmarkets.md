@@ -12,6 +12,8 @@ turn affects price.
 
 http://www.ecosystemmarketplace.com/articles/carbon-offset-prices-vary-widely-by-standard-and-project-type-study/
 
+http://www.ecosystemmarketplace.com/articles/voluntary-carbon-offsetting-hits-three-year-high-on-us-action-wind-farms-and-clean-development/
+
 ## Verified Carbon Standard Verified Carbon Units Market
 
 VCS verifies the quality of carbon offset projects. These can be found in the [VCS Project Database.](http://www.vcsprojectdatabase.org/)
@@ -38,3 +40,8 @@ _Our best bet might be to approach one of these environmental consultancies to s
   * http://www.thesouthpolegroup.com/sustainability-solutions/carbon-offsets
   * http://www.vnvadvisory.com/carbon-neutrality/#toggle-id-4
   * http://nexusfordevelopment.org/partnership-and-corporate-services/
+
+
+#### QAS 
+
+In the UK, retailers may be accredited with the Quality Assurance Standard for carbon which places certain quality requirements on carbon offset retailers.
