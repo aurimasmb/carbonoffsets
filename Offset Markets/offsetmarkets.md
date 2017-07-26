@@ -10,6 +10,7 @@ From the [State of Voluntary Offsets Market Report 2015](http://forest-trends.or
 buyers back projects based on their unique characteristics such as project location, type, and standard – which in
 turn affects price.
 
+http://www.ecosystemmarketplace.com/articles/carbon-offset-prices-vary-widely-by-standard-and-project-type-study/
 
 ## Verified Carbon Standard Verified Carbon Units Market
 
