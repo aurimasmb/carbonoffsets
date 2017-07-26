@@ -27,6 +27,8 @@ http://www.co2offsetresearch.org/consumer/contracts.html
 
 Question: how do we know if we are purchasing offsets which have occurred?
 
+I guess you just always have to check the vintage of the emissions offsets that you are purchasing. If the vintage is from the previous year or earlier, you know that the offsets have already taken place.
+
 
 ## Sequestering:
 
