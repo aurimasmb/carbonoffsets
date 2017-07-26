@@ -9,7 +9,7 @@ Major question:
 Kolvidur was a 90-year return period.
 
 
-"Crediting Period" - The period of time during which emissions reductions can be proved to have existed.
+**"Crediting Period"** - The period of time during which emissions reductions can be proved to have existed.
 
 
 Sequestering vs. Avoiding
