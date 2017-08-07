@@ -35,5 +35,13 @@ https://cdm.unfccc.int/
 
 
 
+## Other Standards
+
+These are some other standards we haven't really looked at yet:
+
+* American Carbon Registry : http://americancarbonregistry.org/how-it-works/what-we-do - Only used for Californian projects.
+
+
+
 
 [On using blockchain for a global carbon accounting system](https://blockchainfutureslab.wordpress.com/2016/06/09/the-blockchain-climate-fix/)
