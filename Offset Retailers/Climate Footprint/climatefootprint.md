@@ -12,6 +12,15 @@ All of the projects I've looked at seem to be legit.
 
 
 
+## Questions
+
+1. How and when do you retire the offsets we purchase?
+2. Can we see the serial numbers and proof of retirement?
+3. 
+
+
+
+
 With Climate Footprint you can choose to purchase offsets from:
 
 ### 1. Global Portfolio
