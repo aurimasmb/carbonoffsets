@@ -15,8 +15,8 @@ Contact Email: business@climatecare.org
 a.	How you will be addressing the Gold Standard grievance review of the LifeStraw Carbon for Water project? 
 b.	Why is the Burn Stoves project not listed on the Markit registry? Is it possible to review the validation and verification info for this project elsewhere?
 c.	Could you please clarify which project the “India Wind” project refers to? Is this one of the Vaayu India Wind Power projects listed on the VCS Project Database or Markit Registry? If so, could you clarify which one (Gujarat, Tamilnadu, Rajasthan, etc.)?
-2.	Could you please confirm that all units being purchased have already been issued? 
-3.	Would it be possible to see the serial numbers of the carbon offsets units which we are purchasing, and receive proof of retirement when these units have been retired?
+>2.	Could you please confirm that all units being purchased have already been issued? 
+>3.	Would it be possible to see the serial numbers of the carbon offsets units which we are purchasing, and receive proof of retirement when these units have been retired?
 
 >Thanks very much for your help! We look forward to being in touch.
 
