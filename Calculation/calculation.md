@@ -12,7 +12,7 @@ Many websites exist to help you calculate your carbon footprint, which you can t
 
 [myclimate](http://www.http://co2.myclimate.org/en/flight_calculators/new), which calculates emissions from a given flight trajectory.
 
-
+http://coolclimate.berkeley.edu/calculator
 
 
 ## Aviation Emissions
