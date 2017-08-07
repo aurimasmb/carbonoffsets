@@ -11,6 +11,6 @@ They tell you exactly the fee that they are taking on top of the actual carbon u
 They explain their project vetting process, which looks fairly rigorous but of course you can always choose the project you like best.
 
 
-Questions:
+## Questions:
 
-What is the vintage of the carbon units we are purchasing??
+* What is the vintage of the carbon units we are purchasing??
