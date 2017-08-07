@@ -1,5 +1,20 @@
 # Offsets
 
+
+Offsets should be:
+
+* real
+* measurable
+* additional
+* permanent
+* leakage
+* unique
+* independently verified
+
+Source: http://www.camcocleanenergy.com/emissions-trading/reality-check-the-anatomy-of-a-good-offset
+
+
+
 OK. 
 
 Major question: 

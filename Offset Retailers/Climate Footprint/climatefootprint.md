@@ -1,5 +1,17 @@
 # Climate Footprint 
 
+**Summary:**
+
+In general the site seems a bit crappy. I want know if we can see serial numbers for the units we purchase. How do they handle retirements?
+
+The tree planting program is not verified by any 3rd party standards, so should be treated with caution. At the moment it seems like just an expensive way to buy VCS project credits with some additional unverified activity going on in UK or Kenya with regards to tree planting. Not recommended.
+
+Has some CDM projects, and some Gold standard projects. 
+
+All of the projects I've looked at seem to be legit.
+
+
+
 With Climate Footprint you can choose to purchase offsets from:
 
 ### 1. Global Portfolio
