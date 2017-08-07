@@ -4,18 +4,7 @@ We created this guide to hopefully inspire you to offset the emissions of some o
 
 -Auri, Michael, and Natalie
 
-Check out the [Notes](./Notes.md) for ongoing research.
+Check out the [Unsorted Notes](./UnsortedNotes.md) for ongoing research.
 
 See the [Wiki](https://github.com/aurimasmb/carbonoffsets/wiki) for the pared-down version of what we have learned so far.
 
-
-
-
-``` csharp 
-
-public class aClass{
-  int var1 = 0;
-} 
-
-
-```
