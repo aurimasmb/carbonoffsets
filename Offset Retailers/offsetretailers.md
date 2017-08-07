@@ -23,7 +23,8 @@ _Offset retailers who we haven't considered in detail:_
 * TerraPass - No offset portfolio since 2015 available... 
 * https://standfortrees.org/en/
 * https://carbonfund.org/
-
+* Native Energy? http://www.nativeenergy.com/home.html  http://www.nativeenergy.com/buy-now.html
+* https://www.cooleffect.org/take-action/support-a-project
 
 
 [Kolvidur](http://kolvidur.is/carbon-calculator/) - Icelandic government initiative to plant birch and spruce forests in Iceland. Very poor English - honestly not sure how / if this program is working anymore and if it accepts payments from individuals any more...
