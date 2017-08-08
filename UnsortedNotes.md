@@ -2,6 +2,10 @@
 
 _This is where we store temporary notes from ongoing research. See the notes contained in the relevant directories for what we have learned so far. See the Wiki for a pared down version of this._
 
+Would be cool to collect data on what offsets people choose to buy and how much and so on.
+
+Made a [little typeform](https://fulbrightcarbon2017.typeform.com/to/PXOFF8) using https://www.typeform.com/  - plz don't submit your answer if you test it, because that uses up some of our 100 responses / month which we get free! : )
+
 ### Todo List (19 July 2017) - a few more hours work.
 
 1. ~~Email United again to check about their prices and retirement scheme.~~
