@@ -41,14 +41,14 @@ Why do the other projects not even show up on the Markit registry?
 
 
 
-|                | Internal Financial Report |   |   |   |
+|                | Internal Financial Report |  Markit Registry |   |   |
 |----------------|---------------------------|---|---|---|
-|                |                           |   |   |   |
+| Mirador        |                 No          |  Yes, but no issuance information.  |   |   |
 | Productive Poo |                 nope          |   |   |   |
 | Los Santos     |               nope            |   |   |   |
 | Makira         |             nope              |   |   |   |
 |      Ugastoves | yes looks like I've kindof found one |   |   |   |
-|                |                           |   |   |   |
+|          Nitrous Oxide      |         no                  | climate action reserve so no . try here: https://thereserve2.apx.com/myModule/rpt/myrpt.asp  |   |   |
 |                |                           |   |   |   |
 
 
