@@ -4,7 +4,7 @@ Contact Email: bptargetneutral@bp.com
 
 ---
 
-**Date:** 2017 07 07
+**Date:** 2017 07 07  
 **Sender:** Aurimas Bukauskas 
 
 >Dear BP Target Neutral,
@@ -26,7 +26,7 @@ Fulbright Postgraduate Scholars, 2017
   
 ---
 
-**Date:** 2017 07 17
+**Date:** 2017 07 17  
 **Sender:** Daniel Davies 
 
 >Hi, thanks for writing. This sounds like a great project. We are having a think about how best to help you and will be in touch.
@@ -48,7 +48,7 @@ daniel.davies2@uk.bp.com
 
 ---
 
-**Date:** 2017 07 18
+**Date:** 2017 07 18  
 **Sender:** Daniel Davies 
 
 >Hi, we’ve spoken to the retirement team and this is something we would struggle to provide in terms of an audit trail. All offsets going through our online carbon calculator are grouped together and retired in bulk which means we wouldn’t be able to separate your flights in the registry and make a connection with a specific offset project. We do provide a full audit service for large volumes based on an invoice transaction ie. not via the online credit card calculator but this is usually for offset programmes around 4000+ tCO2e per year. If you are in that volume area then let us know.
