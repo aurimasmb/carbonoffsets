@@ -2,7 +2,7 @@
 
 ---
 
-**Date:** August 8 2017
+**Date:** August 8 2017  
 **Sender:** Aurimas Bukauskas
 
 >Dear Cool Effect Team,
@@ -20,3 +20,19 @@
 >Michael Donatti
 
 ---
+
+**Date:** August 9 2017  
+**Sender:** info@cooleffect.org
+
+>Thank you for reaching out and congratulations on your Fulbright Grant! (such a wonderful program)
+
+>1. Cool Effect lists only the issued credits on our website. We guarantee that no offsets are sold before issuance. The vintages vary from 2012-2016 depending on the project, their cadence of issuance and credits available.
+
+>2. Yes, although it depends on the project whether we can give you the exact numbers or which range of numbers your purchase was included in. For example, at the end of the month, we might retire 500 credits for a certain project and we get the range of 500 serial numbers. We could tell you that your purchase was in that range, but not which exact numbers your purchase corresponded to. Please note if you purchase the credits from the 'COLLECTION' then we will not be able to inform you the individual serial numbers. When we receive a simple dollar amount, it is allocated across all projects and results in fractional credits. 
+
+>3. The financial and management analysis is conducted through our due diligence. This step is meant to crosscheck and update the information provided earlier (investment analysis,validation report etc.). This specific documents are not available on our website because of financial sensitivity issues, but we will be happy to check with specific projects whether this document can be shared with a supporter who is interested to purchase offsets from specific project/s. In most cases, the answer is yes. 
+
+>Please let us know if you have further questions or would like to chat by phone.
+
+>Team Cool Effect
+
