@@ -4,7 +4,7 @@
 
 ---
 
-**Date:** 2017 08 07
+**Date:** 2017 08 07  
 **Sender:** Aurimas Bukauskas
 
 >Dear Carbon Footprint offsets team,
@@ -24,3 +24,23 @@ PhD Student
 University of Bath
 Centre for Decarbonisation of the Built Environment
 Department of Architecture & Civil Engineering
+
+
+---
+
+**Date:** 2017 08 07  
+**Sender:** John Buckley
+
+
+>Hi Aurimas,
+
+>Many thanks for your email about carbon offsetting.
+
+>If you have a need for your carbon offset credits to be retired straight away we can do that. We typically group the retirements together at several points in the year, but are happy to retire your credits specifically for you following receipt of payment. 
+
+>All the credits are retired publicly on the registries. For voluntary offsets we have accounts with Markit and APX – both have publicly viewable sections. We can provide you a link to show your retired credits and put a comment to say they are retired on your behalf if you like. You will also be able to see the serial numbers.
+
+>Do you know how much you need to offset and which project(s) you would prefer to contribute too?
+
+>Many thanks,
+John
