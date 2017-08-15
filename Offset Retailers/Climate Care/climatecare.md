@@ -22,6 +22,8 @@ Major concerns:
 
 ## 2017 Project Portfolio:
 
+[Project Portfolio](https://climatecare.org/our-2017-mixed-portfolio/)
+
 ### [LifeStray Carbon For Water](https://mer.markit.com/br-reg/public/project.jsp?project_id=103000000002043)
 
 Has a grievance! May not be additional! https://www.goldstandard.org/our-work/grievances/sustainable-deployment-lifestraw-family-rural-kenya-gs886
