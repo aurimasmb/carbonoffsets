@@ -33,7 +33,7 @@ Most recent retirements are in August 2016.
 
 Vintage is all 2011, 2012, issued in 2013.
 
-Weird. WTF. 1 VCU was issued but never retired? http://www.vcsprojectdatabase.org/index-no-tabs.html#/vcu_details_report/81307
+Weird. 1 VCU was issued but never retired? http://www.vcsprojectdatabase.org/index-no-tabs.html#/vcu_details_report/81307
 
 Who would bother with that?? Was this climate footprint just forgetting to retire someone's unit???
 
