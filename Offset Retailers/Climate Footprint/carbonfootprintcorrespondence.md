@@ -1,4 +1,4 @@
-# Correspondence with Climate Footprint
+# Correspondence with Carbon Footprint
 
 **Contact Email:** info@carbonfootprint.com
 
