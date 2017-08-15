@@ -58,7 +58,7 @@ https://www.cooleffect.org/saveoursnowmen?utm_campaign=activation&utm_source=dem
 
 _Looking at 2015 990 Form Page 10 (Part IX Statement of Functional Expenses):_ 
 
-Holy shit. They spent $984,552 on advertising and promotion in 2016. Why is this necessary? Who is paying for this?
+They spent $984,552 on advertising and promotion in 2016. Why is this necessary? Who is paying for this?
 
 What is the difference between this and marketing and outreach?, which cost another???? $931,178??
 
