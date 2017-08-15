@@ -1,4 +1,4 @@
-# Climate Footprint 
+# Carbon Footprint 
 
 **Summary:**
 
