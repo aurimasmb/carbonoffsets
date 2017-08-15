@@ -1,4 +1,4 @@
-# Correspondence with Climate Footprint
+# Correspondence with Carbon Footprint
 
 **Contact Email:** info@carbonfootprint.com
 
@@ -25,12 +25,10 @@ University of Bath
 Centre for Decarbonisation of the Built Environment
 Department of Architecture & Civil Engineering
 
-
 ---
 
 **Date:** 2017 08 07  
 **Sender:** John Buckley
-
 
 >Hi Aurimas,
 
@@ -44,3 +42,4 @@ Department of Architecture & Civil Engineering
 
 >Many thanks,
 John
+
