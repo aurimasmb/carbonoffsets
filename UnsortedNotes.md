@@ -1,4 +1,4 @@
-# Notes
+# Unsorted Notes
 
 _This is where we store temporary notes from ongoing research. See the notes contained in the relevant directories for what we have learned so far. See the Wiki for a pared down version of this._
 
