@@ -10,11 +10,11 @@ BP retires its carbon offsets in bulk.
 
 [List of BP Target Neutral Carbon Offsetting Projects](https://www.bptargetneutral.com/uk/how-we-work/our-projects/)
 
-## Questions
+## Outstanding Questions
 
-1. Could we see the serial numbers of the VCU's or VER's that we are purchasing?
-  * Or, more specifically, is there a way that we can see our VCU's or VER's being retired on the APX or Markit registries for example?
-2. Which projects specifically are our funds being used for?
-  * Is there a way to choose specifically which projects are funds are used for?
-  
- See Corrrespondence for answers.
+1. How much of our payments goes directly to purchasing offsets? I.e. does any of that money go towards BP's operating expenses?
+
+2. 
+
+
+See Corrrespondence for answers.
