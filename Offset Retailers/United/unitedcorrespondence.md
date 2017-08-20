@@ -18,6 +18,8 @@ Contact Email: info@sustainabletravel.org
 >Kind regards,
 >Michael Donatti
 
+---
+
 **Date:** July 18, 2017  
 **Sender:** Michael Donatti
 
