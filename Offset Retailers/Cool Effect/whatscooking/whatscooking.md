@@ -11,8 +11,8 @@ _Notes on the "What's Cooking" Ugandan Cookstoves project on Cool Effect.org"_
 
 1. How and how often do you monitor that stoves are actually being used?
 2. Which biomass fuel savings test did you use?
-
-
+3. What are the emissions factors associated with the baseline stoves being used? How are these calculated? Where is the data coming from?
+4. How does the price of this project on Cool Effect compare to the price of stove project offsets in general?
 
 
 ## Notes
@@ -33,14 +33,29 @@ OK so one interesting point here is that you have to accurately calculate if / h
 
 What does this mean and why exactly do we care?
 
-Well if biomass is non-renewable.
+Well if biomass is non-renewable, then by using it we are increasing carbon in the atmosphere?
 
+What if it were actually renewable? Would that be much different? Well no... ?  Right, because we are still just emitting into the atmosphere?
 
+Aren't we only just interested in the amount of total fuel emissions that have been reduced? Whether or not they come from renewable sources? 
 
+Just because a source is "renewable" in that is being replaced, doesn't mean...
 
+Oh wait - if we redesigned our cook stoves to use a hypothetically renewable source, as opposed to a hypotheticall non-renewable source, would that mean that we count that as a reduction?
+
+For example: switching to a stove which used agricultural wastes? that would mean that although we are emitting the same amount of carbon, the carbon emitted by agricultural wastes would be a renewable resource because it would be coming from a source which continually replaces that sequestered carbon? As opposed to using trees, which would not normally have been cut.
+
+Yeah you should reward this sort of behaviour right?
 
 2. Accurately quantify the time that stoves are actually being used (both in comparison to existing stoves, and in general)
 
+That was a concern with this CDM project for example: http://www.climatechangenews.com/2016/08/10/are-carbon-market-financed-cookstoves-really-clean/
+
+#### Price
+
+According to [this ](http://carbonfinanceforcookstoves.org/carbon-finance/prices-for-improved-cookstove-projects/) the price of cook stove project offsets are around $11 t/CO2e.
+
+That means that the projects on Cool Effect are roughly within the range we expect, and the What's Cooking project is quite a bit cheaper actually.
 
 
 
