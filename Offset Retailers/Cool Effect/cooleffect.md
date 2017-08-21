@@ -16,6 +16,12 @@ They explain their project vetting process, which looks fairly rigorous but of c
 
 ## Questions:
 
+
+Questions for 
+
+
+
+
 * What is the vintage of the carbon units we are purchasing??
 * Does Cool Effect publish an internal financial analysis ? It seem like I'm only able to find 3rd party reviews??
 * What is the Sales force system? ???

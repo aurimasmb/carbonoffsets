@@ -36,3 +36,25 @@
 
 >Team Cool Effect
 
+---
+
+**Date:** August 21 2017
+**Sender:** Aurimas Bukauskas
+
+>Hi,
+
+>Thank you very much for your detailed answers!
+
+>We're nearly finished putting together our guidance, and we just wanted to clarify a few final questions.
+
+>In particular, I'd like to try to understand your process for carbon financing a bit better, and how our offset purchases fit in.
+
+>Would you be available for a chat over the phone at all this week?
+
+>(We are at GMT, so before 3 PM is best on our end.)
+
+>Looking forward to being in touch further.
+
+>Thanks,
+Aurimas
+
