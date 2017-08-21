@@ -29,8 +29,19 @@ Reading the CAR's (Corrective Action Requests) is quite interesting as this show
 
 There are a lot of spelling errors though.
 
+This is an excellent explainer document: https://www.cooleffect.org/lib/content/wp-content/uploads/2016/02/ISS5-GS-447-MR-1-April-2012-31-December-2012.pdf
 
 
+### Stove Use
+
+OK so the two key components for stove use monitoring are:
+
+1. How many stoves did you sell?
+2. How much is each stove being used?
+
+You can make various assumptions about the usage rates for different kinds of households or institutions.
+
+One concern is that people continue to use their old stoves along their new - but apparently this is taken into account with a subsumed Kitchen Test approach?
 
 ## Notes
 
