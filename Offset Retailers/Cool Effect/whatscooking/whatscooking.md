@@ -14,6 +14,23 @@ _Notes on the "What's Cooking" Ugandan Cookstoves project on Cool Effect.org"_
 3. What are the emissions factors associated with the baseline stoves being used? How are these calculated? Where is the data coming from?
 4. How does the price of this project on Cool Effect compare to the price of stove project offsets in general?
 
+## Answers / Notes Based on Reading Reports
+
+
+From: http://externalassets.cooleffect.org/lib/content/wp-content/uploads/2017/06/15213553/Verification-Report_04042016.pdf
+
+Stove usage rates are quite high, at least until 7-8 years old, when the rates drop signifantly.
+
+Reactions from people were 100% positive? That seems cool, but could they just be telling the monitors what they want to hear?
+
+Monitoring is a manual biennial review.
+
+Reading the CAR's (Corrective Action Requests) is quite interesting as this shows how various issues and concerns with the project operation have been addressed. It seems that over the past two years these concerns have been well addressed. (Various things concerning how the counting is done, how the database is managed, etc.)
+
+There are a lot of spelling errors though.
+
+
+
 
 ## Notes
 
