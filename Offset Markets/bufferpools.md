@@ -4,6 +4,12 @@ _Notes on Buffer Pools for land-use carbon offset projects._
 
 ## Summary
 
+Buffer pools are a VCS tool to insure offset purchases in AFOLU (Agriculture, Forestry and Other Land Use) projects. From our understanding, projects give some of their generated credits to the buffer pool. Anytime a project loses generated credits because of some unforeseen disaster (fire, hurricane, pest, etc.), the pool cancels an equivalent number of credits. The pool sometimes returns credits to projects that are doing well so they can get more revenue on the carbon market. This incentivises good management.
+To give an example:
+A, B, and C each generate 100 credits from afforestation, giving 20 to the buffer pool and selling 80 on the carbon market.
+C experiences a forest fire, decimating the equivalent of 40 credits it already sold on the carbon market. The pool cancels 40 credits to compensate.
+B shows particularly good forest management practises, so it receives an extra 5 credits from the pool to sell on the market for revenue.
+
 ## Notes
 
 
