@@ -38,7 +38,7 @@
 
 ---
 
-**Date:** August 21 2017
+**Date:** August 21 2017  
 **Sender:** Aurimas Bukauskas
 
 >Hi,
