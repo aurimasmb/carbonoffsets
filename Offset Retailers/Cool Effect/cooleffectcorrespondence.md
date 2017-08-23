@@ -58,3 +58,11 @@
 >Thanks,
 Aurimas
 
+--- 
+
+**Date:** August 23 2017
+
+Conversation between Aurimas and Sid Yadav of Global Offset Research:
+
+
+
