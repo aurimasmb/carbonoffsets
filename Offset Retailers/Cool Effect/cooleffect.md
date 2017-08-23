@@ -17,6 +17,7 @@ They explain their project vetting process, which looks fairly rigorous but of c
 ## Questions:
 
 * Could you explain your carbon financing process? When does Cool Effect actually purchase offsets? Do the projects take on loans?
+* Could you talk a little bit about Cool Effect finances? Are you recieving donations from large corporate sponsors? Why has so much been spent on marketing?
 * Could you talk a little bit about your project selection process?
 
 
