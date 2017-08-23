@@ -16,17 +16,11 @@ They explain their project vetting process, which looks fairly rigorous but of c
 
 ## Questions:
 
-
-Questions for 
-
-
+* Could you explain your carbon financing process? When does Cool Effect actually purchase offsets? Do the projects take on loans?
+* Could you talk a little bit about your project selection process?
 
 
-* What is the vintage of the carbon units we are purchasing??
-* Does Cool Effect publish an internal financial analysis ? It seem like I'm only able to find 3rd party reviews??
-* What is the Sales force system? ???
-* What is the internal team of scientists at Cool Effect. Where are these documents? where is the financial model? The management analysis?
-
+## Unsorted Notes
 
 
 Mentioned in:
