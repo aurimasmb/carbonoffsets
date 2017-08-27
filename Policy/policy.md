@@ -13,3 +13,7 @@ _**Auri's opinion:** This legislation seems super weak. **Offsetting** the **gro
 [EU Emissions Trading System (ETS)](https://ec.europa.eu/clima/policies/ets_en)
 
 [ETS on Aviation](https://ec.europa.eu/clima/policies/transport/aviation_en)
+
+
+
+China's new carbon market: https://www.eenews.net/stories/1060058665
