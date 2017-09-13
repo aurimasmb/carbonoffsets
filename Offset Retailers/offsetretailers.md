@@ -20,6 +20,8 @@ The following links list some and rate them along various metrics.
 
 _Offset retailers who we haven't considered in detail:_
 
+* https://www.ucapture.com/
+* https://oceanfdn.org/calculator
 * TerraPass - No offset portfolio since 2015 available... 
 * https://standfortrees.org/en/
 * https://carbonfund.org/
