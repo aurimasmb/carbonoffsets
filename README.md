@@ -6,6 +6,6 @@ This is a guide for those interested in offsetting their personal carbon emissio
 
 _-Auri & Michael_
 
-* Check out the [Unsorted Notes](./UnsortedNotes.md) for ongoing research.
-* See the [Wiki](https://github.com/aurimasmb/carbonoffsets/wiki) for the pared-down version of what we have learned so far.
+* Check out the [**Unsorted Notes**](./UnsortedNotes.md) for ongoing research.
+* See the [**Wiki**](https://github.com/aurimasmb/carbonoffsets/wiki) for the pared-down version of what we have learned so far.
 
